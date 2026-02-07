@@ -3,7 +3,7 @@
     {
       "name": "SecurityCraft",
       "fileName": "[1.21.11] SecurityCraft v1.10.1-beta1.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/%5B1.21.11%5D%20SecurityCraft%20v1.10.1-beta1.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/%5B1.21.11%5D%20SecurityCraft%20v1.10.1-beta1.jar"
     },
     {
       "name": "JEI",
@@ -11,6 +11,4 @@
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/jei-1.21.11-neoforge-27.4.0.15.jar"
     }
   ]
-
 }
-
