@@ -19,9 +19,15 @@
       "name": "Sophisticated Backpacks",
       "file_name": "sophisticatedbackpacks-1.21.11-3.25.30.1535.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/sophisticatedbackpacks-1.21.11-3.25.30.1535.jar"
+    },
+    {
+      "name": "Sophisticated Core",
+      "file_name": "sophisticatedcore-1.21.11-1.4.3.1487.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/sophisticatedcore-1.21.11-1.4.3.1487.jar"
     }
   ]
 }
+
 
 
 
