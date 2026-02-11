@@ -24,9 +24,25 @@
       "name": "Sophisticated Core",
       "file_name": "sophisticatedcore-1.21.11-1.4.3.1487.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/sophisticatedcore-1.21.11-1.4.3.1487.jar"
+    },
+    {
+      "name": "CMDCam",
+      "file_name": "CMDCam_NEOFORGE_v2.2.7_mc1.21.11.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/CMDCam_NEOFORGE_v2.2.7_mc1.21.11.jar"
+    },
+    {
+      "name": "CreativeCore",
+      "file_name": "CreativeCore_NEOFORGE_v2.14.10_mc1.21.11%20(1).jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/CreativeCore_NEOFORGE_v2.14.10_mc1.21.11%20(1).jar"
+    },
+    {
+      "name": "Player Revive",
+      "file_name": "PlayerRevive_NEOFORGE_v2.1.0_mc1.21.11.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/PlayerRevive_NEOFORGE_v2.1.0_mc1.21.11.jar"
     }
   ]
 }
+
 
 
 
