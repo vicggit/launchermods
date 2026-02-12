@@ -32,7 +32,7 @@
     },
     {
       "name": "CreativeCore",
-      "file_name": "CreativeCore_NEOFORGE_v2.14.10_mc1.21.11%20(1).jar",
+      "file_name": "CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar"
     },
     {
@@ -42,6 +42,7 @@
     }
   ]
 }
+
 
 
 
