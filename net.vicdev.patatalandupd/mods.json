@@ -34,9 +34,110 @@
       "name": "CreativeCore",
       "file_name": "CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar"
+    },
+    {
+      "name": "Apple Skin",
+      "file_name": "appleskin-neoforge-mc1.21.11-3.0.8.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/appleskin-neoforge-mc1.21.11-3.0.8.jar"
+    },
+    {
+      "name": "Comforts",
+      "file_name": "comforts-neoforge-14.0.1+1.21.11.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/comforts-neoforge-14.0.1+1.21.11.jar"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "file_name": "sound-physics-remastered-neoforge-1.21.11-1.5.1.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/sound-physics-remastered-neoforge-1.21.11-1.5.1.jar"
+    },
+    {
+      "name": "Carry On",
+      "file_name": "carryon-neoforge-1.21.11-2.9.0.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/carryon-neoforge-1.21.11-2.9.0.jar"
+    },
+    {
+      "name": "Not Enough Animations",
+      "file_name": "notenoughanimations-neoforge-1.11.3-mc1.21.11.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/notenoughanimations-neoforge-1.11.3-mc1.21.11.jar"
+    },
+    {
+      "name": "Nether Portal Fix",
+      "file_name": "netherportalfix-neoforge-1.21.11-21.11.3.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/netherportalfix-neoforge-1.21.11-21.11.3.jar"
+    },
+    {
+      "name": "Trash Slot",
+      "file_name": "trashslot-neoforge-1.21.11-21.11.4.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/trashslot-neoforge-1.21.11-21.11.4.jar"
+    },
+    {
+      "name": "Crafting Tweaks",
+      "file_name": "craftingtweaks-neoforge-1.21.11-21.11.4.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/craftingtweaks-neoforge-1.21.11-21.11.4.jar"
+    },
+    {
+      "name": "Visual Workbench",
+      "file_name": "VisualWorkbench-v21.11.1-mc1.21.11-NeoForge.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/VisualWorkbench-v21.11.1-mc1.21.11-NeoForge.jar"
+    },
+    {
+      "name": "OpenBlocks Elevator",
+      "file_name": "elevatorid-neoforge-1.21.11-1.15.0.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/elevatorid-neoforge-1.21.11-1.15.0.jar"
+    },
+    {
+      "name": "Macaw's Fences & Walls",
+      "file_name": "mcw-fences-1.2.1-mc1.21.11neoforge.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/mcw-fences-1.2.1-mc1.21.11neoforge.jar"
+    },
+    {
+      "name": "Clean Swing",
+      "file_name": "cleanswing-1.9-1.21.11.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/cleanswing-1.9-1.21.11.jar"
+    },
+    {
+      "name": "Pick Up Notifier",
+      "file_name": "PickUpNotifier-v21.11.0-mc1.21.11-NeoForge.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/PickUpNotifier-v21.11.0-mc1.21.11-NeoForge.jar"
+    },
+    {
+      "name": "Just Enough Breeding",
+      "file_name": "justenoughbreeding-neoforge-1.21.11-1.6.6.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/justenoughbreeding-neoforge-1.21.11-1.6.6.jar"
+    },
+    {
+      "name": "Macaw's Doors",
+      "file_name": "mcw-doors-1.1.5-mc1.21.11neoforge.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/mcw-doors-1.1.5-mc1.21.11neoforge.jar"
+    },
+    {
+      "name": "Macaw's Furniture",
+      "file_name": "mcw-furniture-3.4.2-mc1.21.11neoforge.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/mcw-furniture-3.4.2-mc1.21.11neoforge.jar"
+    },
+    {
+      "name": "Macaw's Trapdoors",
+      "file_name": "mcw-trapdoors-1.1.5-mc1.21.11neoforge.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/mcw-trapdoors-1.1.5-mc1.21.11neoforge.jar"
+    },
+    {
+      "name": "Inventory Essentials",
+      "file_name": "inventoryessentials-neoforge-1.21.11-21.11.4.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/inventoryessentials-neoforge-1.21.11-21.11.4.jar"
+    },
+    {
+      "name": "Balm",
+      "file_name": "balm-neoforge-1.21.11-21.11.6.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/balm-neoforge-1.21.11-21.11.6.jar"
+    },
+    {
+      "name": "Puzzle Lib",
+      "file_name": "PuzzlesLib-v21.11.11-mc1.21.11-NeoForge.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/PuzzlesLib-v21.11.11-mc1.21.11-NeoForge.jar"
     }
   ]
 }
+
 
 
 
