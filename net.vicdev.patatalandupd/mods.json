@@ -26,7 +26,7 @@
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/sophisticatedcore-1.21.11-1.4.3.1487.jar"
     },
     {
-      "name": "CMDCam",
+      "name": "CMD Cam",
       "file_name": "CMDCam_NEOFORGE_v2.2.7_mc1.21.11.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/CMDCam_NEOFORGE_v2.2.7_mc1.21.11.jar"
     },
@@ -42,6 +42,7 @@
     }
   ]
 }
+
 
 
 
