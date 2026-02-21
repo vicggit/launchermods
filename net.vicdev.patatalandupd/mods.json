@@ -129,9 +129,15 @@
       "name": "Puzzle Lib",
       "file_name": "PuzzlesLib-v21.11.11-mc1.21.11-NeoForge.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/PuzzlesLib-v21.11.11-mc1.21.11-NeoForge.jar"
+    },
+    {
+      "name": "Inventory Profiles Next",
+      "file_name": "InventoryProfilesNext-neoforge-1.21.11-2.2.3.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/InventoryProfilesNext-neoforge-1.21.11-2.2.3.jar"
     }
   ]
 }
+
 
 
 
