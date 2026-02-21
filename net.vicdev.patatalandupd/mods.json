@@ -139,9 +139,15 @@
       "name": "LibIPN",
       "file_name": "libIPN-neoforge-1.21.11-6.6.2.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/libIPN-neoforge-1.21.11-6.6.2.jar"
+    },
+    {
+      "name": "kotlin for Forge",
+      "file_name": "kotlinforforge-6.0.0-all.jar"
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/kotlinforforge-6.0.0-all.jar"
     }
   ]
 }
+
 
 
 
