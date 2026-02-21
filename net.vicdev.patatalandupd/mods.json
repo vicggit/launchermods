@@ -142,11 +142,12 @@
     },
     {
       "name": "kotlin for Forge",
-      "file_name": "kotlinforforge-6.0.0-all.jar"
+      "file_name": "kotlinforforge-6.0.0-all.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/kotlinforforge-6.0.0-all.jar"
     }
   ]
 }
+
 
 
 
