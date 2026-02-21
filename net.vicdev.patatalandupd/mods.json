@@ -121,11 +121,6 @@
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/mcw-trapdoors-1.1.5-mc1.21.11neoforge.jar"
     },
     {
-      "name": "Inventory Essentials",
-      "file_name": "inventoryessentials-neoforge-1.21.11-21.11.4.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/inventoryessentials-neoforge-1.21.11-21.11.4.jar"
-    },
-    {
       "name": "Balm",
       "file_name": "balm-neoforge-1.21.11-21.11.6.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/balm-neoforge-1.21.11-21.11.6.jar"
@@ -137,6 +132,7 @@
     }
   ]
 }
+
 
 
 
