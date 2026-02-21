@@ -134,9 +134,15 @@
       "name": "Inventory Profiles Next",
       "file_name": "InventoryProfilesNext-neoforge-1.21.11-2.2.3.jar",
       "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/InventoryProfilesNext-neoforge-1.21.11-2.2.3.jar"
+    },
+    {
+      "name": "LibIPN",
+      "file_name": "libIPN-neoforge-1.21.11-6.6.2.jar",
+      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/libIPN-neoforge-1.21.11-6.6.2.jar"
     }
   ]
 }
+
 
 
 
