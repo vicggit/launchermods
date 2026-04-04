@@ -1,166 +1,724 @@
 {
   "mods": [
     {
-      "name": "SecurityCraft",
-      "file_name": "SecurityCraft-1.21.11-v1.10.1-beta1.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/SecurityCraft-1.21.11-v1.10.1-beta1.jar"
+      "name": "AddonsLib",
+      "file_name": "addonslib-1.20.1-1.7.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1090999/files/7344113/download"
     },
     {
-      "name": "JEI",
-      "file_name": "jei-1.21.11-neoforge-27.4.0.15.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/jei-1.21.11-neoforge-27.4.0.15.jar"
+      "name": "Advanced Netherite (Forge / NeoForge)",
+      "file_name": "advancednetherite-forge-2.1.3-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/495336/files/5401035/download"
     },
     {
-      "name": "Reap",
-      "file_name": "reap-neoforge-1.21.11-1.1.3.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/reap-neoforge-1.21.11-1.1.3.jar"
+      "name": "Amendments",
+      "file_name": "amendments-1.20-2.2.5.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/896746/files/7470401/download"
     },
     {
-      "name": "Sophisticated Backpacks",
-      "file_name": "sophisticatedbackpacks-1.21.11-3.25.30.1535.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/sophisticatedbackpacks-1.21.11-3.25.30.1535.jar"
+      "name": "AppleSkin",
+      "file_name": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/248787/files/4770828/download"
     },
     {
-      "name": "Sophisticated Core",
-      "file_name": "sophisticatedcore-1.21.11-1.4.3.1487.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/sophisticatedcore-1.21.11-1.4.3.1487.jar"
+      "name": "Architectury API",
+      "file_name": "architectury-9.2.14-forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/419699/files/5137938/download"
     },
     {
-      "name": "CMD Cam",
-      "file_name": "CMDCam_NEOFORGE_v2.2.7_mc1.21.11.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/CMDCam_NEOFORGE_v2.2.7_mc1.21.11.jar"
-    },
-    {
-      "name": "CreativeCore",
-      "file_name": "CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar"
-    },
-    {
-      "name": "Apple Skin",
-      "file_name": "appleskin-neoforge-mc1.21.11-3.0.8.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/appleskin-neoforge-mc1.21.11-3.0.8.jar"
-    },
-    {
-      "name": "Comforts",
-      "file_name": "comforts-neoforge-14.0.1+1.21.11.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/comforts-neoforge-14.0.1+1.21.11.jar"
-    },
-    {
-      "name": "Sound Physics Remastered",
-      "file_name": "sound-physics-remastered-neoforge-1.21.11-1.5.1.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/sound-physics-remastered-neoforge-1.21.11-1.5.1.jar"
-    },
-    {
-      "name": "Carry On",
-      "file_name": "carryon-neoforge-1.21.11-2.9.0.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/carryon-neoforge-1.21.11-2.9.0.jar"
-    },
-    {
-      "name": "Not Enough Animations",
-      "file_name": "notenoughanimations-neoforge-1.11.3-mc1.21.11.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/notenoughanimations-neoforge-1.11.3-mc1.21.11.jar"
-    },
-    {
-      "name": "Nether Portal Fix",
-      "file_name": "netherportalfix-neoforge-1.21.11-21.11.3.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/netherportalfix-neoforge-1.21.11-21.11.3.jar"
-    },
-    {
-      "name": "Trash Slot",
-      "file_name": "trashslot-neoforge-1.21.11-21.11.4.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/trashslot-neoforge-1.21.11-21.11.4.jar"
-    },
-    {
-      "name": "Crafting Tweaks",
-      "file_name": "craftingtweaks-neoforge-1.21.11-21.11.4.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/craftingtweaks-neoforge-1.21.11-21.11.4.jar"
-    },
-    {
-      "name": "Visual Workbench",
-      "file_name": "VisualWorkbench-v21.11.1-mc1.21.11-NeoForge.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/VisualWorkbench-v21.11.1-mc1.21.11-NeoForge.jar"
-    },
-    {
-      "name": "OpenBlocks Elevator",
-      "file_name": "elevatorid-neoforge-1.21.11-1.15.0.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/elevatorid-neoforge-1.21.11-1.15.0.jar"
-    },
-    {
-      "name": "Macaw's Fences & Walls",
-      "file_name": "mcw-fences-1.2.1-mc1.21.11neoforge.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/mcw-fences-1.2.1-mc1.21.11neoforge.jar"
-    },
-    {
-      "name": "Clean Swing",
-      "file_name": "cleanswing-1.9-1.21.11.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/cleanswing-1.9-1.21.11.jar"
-    },
-    {
-      "name": "Pick Up Notifier",
-      "file_name": "PickUpNotifier-v21.11.0-mc1.21.11-NeoForge.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/PickUpNotifier-v21.11.0-mc1.21.11-NeoForge.jar"
-    },
-    {
-      "name": "Just Enough Breeding",
-      "file_name": "justenoughbreeding-neoforge-1.21.11-1.6.6.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/justenoughbreeding-neoforge-1.21.11-1.6.6.jar"
-    },
-    {
-      "name": "Macaw's Doors",
-      "file_name": "mcw-doors-1.1.5-mc1.21.11neoforge.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/mcw-doors-1.1.5-mc1.21.11neoforge.jar"
-    },
-    {
-      "name": "Macaw's Furniture",
-      "file_name": "mcw-furniture-3.4.2-mc1.21.11neoforge.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/mcw-furniture-3.4.2-mc1.21.11neoforge.jar"
-    },
-    {
-      "name": "Macaw's Trapdoors",
-      "file_name": "mcw-trapdoors-1.1.5-mc1.21.11neoforge.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/mcw-trapdoors-1.1.5-mc1.21.11neoforge.jar"
+      "name": "Backpacked",
+      "file_name": "backpacked-forge-1.20.1-3.0.6.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/352835/files/7624219/download"
     },
     {
       "name": "Balm",
-      "file_name": "balm-neoforge-1.21.11-21.11.6.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/balm-neoforge-1.21.11-21.11.6.jar"
+      "file_name": "balm-forge-1.20.1-7.3.38-all.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/531761/files/7420617/download"
     },
     {
-      "name": "Puzzle Lib",
-      "file_name": "PuzzlesLib-v21.11.11-mc1.21.11-NeoForge.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/PuzzlesLib-v21.11.11-mc1.21.11-NeoForge.jar"
+      "name": "Better Villages - Forge",
+      "file_name": "bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/615352/files/6563409/download"
     },
     {
-      "name": "Inventory Profiles Next",
-      "file_name": "InventoryProfilesNext-neoforge-1.21.11-2.2.3.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/InventoryProfilesNext-neoforge-1.21.11-2.2.3.jar"
+      "name": "Biomes O' Plenty",
+      "file_name": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/220318/files/6364065/download"
     },
     {
-      "name": "LibIPN",
-      "file_name": "libIPN-neoforge-1.21.11-6.6.2.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/libIPN-neoforge-1.21.11-6.6.2.jar"
+      "name": "Blueprint",
+      "file_name": "blueprint-1.20.1-7.1.3.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/382216/files/6408581/download"
     },
     {
-      "name": "kotlin for Forge",
-      "file_name": "kotlinforforge-6.0.0-all.jar",
-      "url": "https://github.com/vicggit/launchermods/raw/refs/heads/main/net.vicdev.patatalandupd/kotlinforforge-6.0.0-all.jar"
+      "name": "Bookshelf",
+      "file_name": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/228525/files/7612389/download"
+    },
+    {
+      "name": "Carry On",
+      "file_name": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/274259/files/4882500/download"
+    },
+    {
+      "name": "CasinoCraft",
+      "file_name": "CasinoCraft_1.20.1_v25.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/243471/files/5942243/download"
+    },
+    {
+      "name": "CFM Refurbished: Watt About Power?",
+      "file_name": "cfm_wap-1.20.1-forge-1.2.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1170251/files/7054495/download"
+    },
+    {
+      "name": "Chisels & Bits - For Forge",
+      "file_name": "chisels-and-bits-forge-20.1.20.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/231095/files/7620767/download"
+    },
+    {
+      "name": "Christmas Delight (Farmers Delight Addon)",
+      "file_name": "farmers_delight_christmas_edition-V1.0.2-forge-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1134366/files/7149224/download"
+    },
+    {
+      "name": "Clean Swing Through Grass",
+      "file_name": "cleanswing-1.20-1.8.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/915308/files/5962530/download"
+    },
+    {
+      "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+      "file_name": "cloth-config-11.1.136-forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/348521/files/5729105/download"
+    },
+    {
+      "name": "CMDCam",
+      "file_name": "CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/251244/files/6099081/download"
+    },
+    {
+      "name": "Collector's Reap",
+      "file_name": "collectorsreap-1.20.1-1.5.5.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/807101/files/7457274/download"
+    },
+    {
+      "name": "Comforts",
+      "file_name": "comforts-forge-6.4.0+1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/276951/files/5503516/download"
+    },
+    {
+      "name": "Create: Copycats+",
+      "file_name": "copycats-3.0.7+mc.1.20.1-forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/968398/files/7634682/download"
+    },
+    {
+      "name": "Crafting Tweaks",
+      "file_name": "craftingtweaks-forge-1.20.1-18.2.8.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/233071/files/7454498/download"
+    },
+    {
+      "name": "Create: Additional Lights",
+      "file_name": "morelights-0.2.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1085408/files/6400844/download"
+    },
+    {
+      "name": "Create: Connected",
+      "file_name": "create_connected-1.1.13-mc1.20.1-all.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/947914/files/7593867/download"
+    },
+    {
+      "name": "Create Crafts & Additions Plus",
+      "file_name": "createadditionplus-1.3.0-1.20.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/966467/files/5229416/download"
+    },
+    {
+      "name": "Create: Curios Jetpack & Backtank",
+      "file_name": "create_jetpack_curios-1.2.0-forge-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1057194/files/5887734/download"
+    },
+    {
+      "name": "Create: Diesel Generators",
+      "file_name": "createdieselgenerators-1.20.1-1.3.10.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/869316/files/7856724/download"
+    },
+    {
+      "name": "Create: Enchantment Industry",
+      "file_name": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/688768/files/6652836/download"
+    },
+    {
+      "name": "Create : Misc & Things",
+      "file_name": "create_things_and_misc-4.1.0-forge-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/652202/files/7822534/download"
+    },
+    {
+      "name": "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)",
+      "file_name": "CreateOPlenty-Create+6.0.7-3.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1351997/files/7476099/download"
+    },
+    {
+      "name": "Create: Security Program",
+      "file_name": "create_security-0.1.2-forge-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1218836/files/6415839/download"
+    },
+    {
+      "name": "Create: Steam 'n' Rails",
+      "file_name": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/688231/files/7758640/download"
+    },
+    {
+      "name": "Create: Totem Factory",
+      "file_name": "TotemFactory-1.1.0+mc1.20.1-Forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/978675/files/7523838/download"
+    },
+    {
+      "name": "Create",
+      "file_name": "create-1.20.1-6.0.8.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/328085/files/7178761/download"
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "file_name": "createaddition-1.20.1-1.3.3.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/439890/files/7208610/download"
+    },
+    {
+      "name": "Create JEI Compat",
+      "file_name": "createjeicompat-1.0.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1422344/files/7688366/download"
+    },
+    {
+      "name": "CreativeCore",
+      "file_name": "CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/257814/files/7649757/download"
+    },
+    {
+      "name": "Cupboard",
+      "file_name": "cupboard-1.20.1-3.5.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/326652/files/7746490/download"
+    },
+    {
+      "name": "Curios API (Forge/NeoForge)",
+      "file_name": "curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/309927/files/6418456/download"
+    },
+    {
+      "name": "Display Delight",
+      "file_name": "displaydelight-1.4.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1144296/files/7176651/download"
+    },
+    {
+      "name": "Dynamic Trees - Biomes O' Plenty",
+      "file_name": "DynamicTreesBOP-1.20.1-3.3.4.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/289529/files/7764165/download"
+    },
+    {
+      "name": "Dungeons and Taverns",
+      "file_name": "dungeons-and-taverns-3.0.3.f[Forge].jar",
+      "url": "https://www.curseforge.com/api/v1/mods/853794/files/5206484/download"
+    },
+    {
+      "name": "Dungeon Crawl",
+      "file_name": "Dungeon Crawl-1.20.1-2.3.15.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/324973/files/6047153/download"
+    },
+    {
+      "name": "Dungeons Enhanced Lootintegrations Addon",
+      "file_name": "lootintegrations_dungeonsenhanced-1.6.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1008041/files/6510000/download"
+    },
+    {
+      "name": "Dungeons Enhanced",
+      "file_name": "dungeons_enhanced-1.20.1-5.4.3.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/480715/files/7069098/download"
+    },
+    {
+      "name": "Dynamic Trees",
+      "file_name": "DynamicTrees-1.20.1-1.4.10.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/252818/files/7502488/download"
+    },
+    {
+      "name": "Dynamic Trees Plus",
+      "file_name": "DynamicTreesPlus-1.20.1-1.2.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/478155/files/7502535/download"
+    },
+    {
+      "name": "emotecraft fix animate texture",
+      "file_name": "emotecraft_fix_animate_texture-1.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1495668/files/7814386/download"
+    },
+    {
+      "name": "Emotecraft (Forge)",
+      "file_name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/403422/files/4632460/download"
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "file_name": "EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/250419/files/7612607/download"
+    },
+    {
+      "name": "Explorations",
+      "file_name": "explorations-forge-1.20.1-1.6.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/550247/files/5786325/download"
+    },
+    {
+      "name": "Farmer's Delight",
+      "file_name": "FarmersDelight-1.20.1-1.2.11.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/398521/files/7801523/download"
+    },
+    {
+      "name": "Fetzi's Displays",
+      "file_name": "fetzisdisplays-forge-1.0.1-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1257994/files/6926002/download"
+    },
+    {
+      "name": "Create: Fishing Bobber Detector | Automatic Fishing with Create",
+      "file_name": "bobberdetector-forge1.20.1-1.0.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/897858/files/6527814/download"
+    },
+    {
+      "name": "Formations Overworld",
+      "file_name": "formationsoverworld-1.0.5-mc1.20.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/915324/files/6792379/download"
+    },
+    {
+      "name": "Formations (Structure Library)",
+      "file_name": "formations-1.0.4-forge-mc1.20.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/915115/files/6789339/download"
+    },
+    {
+      "name": "Framework",
+      "file_name": "framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/549225/files/7573740/download"
+    },
+    {
+      "name": "GeckoLib",
+      "file_name": "geckolib-forge-1.20.1-4.8.3.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/388172/files/7553267/download"
+    },
+    {
+      "name": "GlitchCore",
+      "file_name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/955399/files/5787839/download"
+    },
+    {
+      "name": "Hearth and Harvest",
+      "file_name": "hearthandharvest-1.20.1-1.0.12.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1212197/files/6891526/download"
+    },
+    {
+      "name": "Immersive Ores",
+      "file_name": "immersiveores-1.20.1-0.9.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/876772/files/7272377/download"
+    },
+    {
+      "name": "Jade 🔍",
+      "file_name": "Jade-1.20.1-Forge-11.13.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/324717/files/6855440/download"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "file_name": "jei-1.20.1-forge-15.20.0.112.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/238222/files/6600311/download"
+    },
+    {
+      "name": "Just Enough Breeding (JEBr)",
+      "file_name": "justenoughbreeding-forge-1.20-1.20.1-2.5.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/899386/files/7391750/download"
+    },
+    {
+      "name": "KeepCuriosInventory",
+      "file_name": "keepcuriosinventory-1.20.1-1.0.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/880582/files/6845913/download"
+    },
+    {
+      "name": "Kotlin for Forge",
+      "file_name": "kotlinforforge-4.12.0-all.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/351264/files/7291067/download"
+    },
+    {
+      "name": "libIPN",
+      "file_name": "libIPN-forge-1.20-4.0.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/679177/files/5208511/download"
+    },
+    {
+      "name": "Library Ferret - Forge",
+      "file_name": "libraryferret-forge-1.20.1-4.0.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/532727/files/4601234/download"
+    },
+    {
+      "name": "Loot Integrations: Dungeon Crawl",
+      "file_name": "lootintegrations_dungeoncrawl-1.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1137456/files/6168744/download"
+    },
+    {
+      "name": "Loot Integrations: Dungeons and Taverns",
+      "file_name": "lootintegrations_dnt-2.4.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1139414/files/6509967/download"
+    },
+    {
+      "name": "Loot Integrations: Formations Overworld & Nether",
+      "file_name": "lootintegrations_formations-1.3.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1146867/files/6510024/download"
+    },
+    {
+      "name": "Loot Integrations",
+      "file_name": "lootintegrations-1.20.1-4.7.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/580689/files/6640968/download"
+    },
+    {
+      "name": "Lucky77",
+      "file_name": "Lucky77_1.20.1_v04.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/476196/files/5140501/download"
+    },
+    {
+      "name": "Luki's Strongholds",
+      "file_name": "lukis-strongholds-v1.0  1.20-1.20.3.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1376305/files/7351565/download"
+    },
+    {
+      "name": "Lychee (Neo/Forge)",
+      "file_name": "Lychee-1.20.1-Forge-5.1.24.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/567403/files/7437062/download"
+    },
+    {
+      "name": "Macaw's Biomes O' Plenty",
+      "file_name": "mcwbiomesoplenty-1.20.1-1.5.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/533382/files/7353547/download"
+    },
+    {
+      "name": "Macaw's Bridges",
+      "file_name": "mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/351725/files/7627954/download"
+    },
+    {
+      "name": "Macaw's Doors",
+      "file_name": "mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/378646/files/7618714/download"
+    },
+    {
+      "name": "Macaw's Fences and Walls",
+      "file_name": "mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/453925/files/7308423/download"
+    },
+    {
+      "name": "Macaw's Furniture",
+      "file_name": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/359540/files/7255630/download"
+    },
+    {
+      "name": "[DISCONTINUED] Macaw's Furnitures - Biomes O' Plenty",
+      "file_name": "mcwfurnituresbop-1.20-1.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/683252/files/5595825/download"
+    },
+    {
+      "name": "Macaw's Holidays",
+      "file_name": "mcw-holidays-1.1.2-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/930232/files/7304461/download"
+    },
+    {
+      "name": "Macaw's Lights and Lamps",
+      "file_name": "mcw-lights-1.1.5-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/502372/files/7304117/download"
+    },
+    {
+      "name": "Macaw's Paintings",
+      "file_name": "mcw-paintings-1.1.0-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/438116/files/7845102/download"
+    },
+    {
+      "name": "Macaw's Paths and Pavings",
+      "file_name": "mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/629153/files/7029554/download"
+    },
+    {
+      "name": "Macaw's Roofs",
+      "file_name": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/352039/files/6494466/download"
+    },
+    {
+      "name": "Macaw's Stairs",
+      "file_name": "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1119394/files/7317580/download"
+    },
+    {
+      "name": "Macaw's Trapdoors",
+      "file_name": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/400933/files/7256186/download"
+    },
+    {
+      "name": "Macaw's Windows",
+      "file_name": "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/363569/files/7317714/download"
+    },
+    {
+      "name": "MCEF (Minecraft Chromium Embedded Framework)",
+      "file_name": "mcef-forge-2.1.6-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/636236/files/5828187/download"
+    },
+    {
+      "name": "Measurements",
+      "file_name": "Measurements-forge-1.20.1-2.0.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/478559/files/6426500/download"
+    },
+    {
+      "name": "MCA Reborn [Fabric/Forge]",
+      "file_name": "minecraft-comes-alive-7.6.15+1.20.1-universal.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/535291/files/7707268/download"
+    },
+    {
+      "name": "SecurityCraft: More Protectables",
+      "file_name": "moreprotectables-1.20.1-1.2.3.10.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1122568/files/5842423/download"
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod Tools: Refurbished",
+      "file_name": "furniture_mod_tools_refurbished-1.0.0-forge-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1405249/files/7336857/download"
+    },
+    {
+      "name": "MrCrayfish's Gun Mod [Unofficial]",
+      "file_name": "CGM-Unofficial-1.4.19+Forge+1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/945471/files/7041829/download"
+    },
+    {
+      "name": "ItsUniqueGamer's MrCrayfish's Posture Unofficial Player Port",
+      "file_name": "posture-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1341498/files/6992702/download"
+    },
+    {
+      "name": "ItsUniqueGamer's Mrcrayfish's Vehicle unofficial port",
+      "file_name": "vehicle-mod-0.47.1-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1341459/files/7600713/download"
+    },
+    {
+      "name": "Nature's Compass",
+      "file_name": "NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/252848/files/4712189/download"
+    },
+    {
+      "name": "NetherPortalFix",
+      "file_name": "netherportalfix-forge-1.20-13.0.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/241160/files/4939735/download"
+    },
+    {
+      "name": "New Year's Delight (A Farmer's Delight Add-on)",
+      "file_name": "nydelight-1.0.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1451118/files/7621831/download"
+    },
+    {
+      "name": "Nirvana",
+      "file_name": "nirvana-forge-1.2.5.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1278909/files/7766058/download"
+    },
+    {
+      "name": "Not Enough Animations",
+      "file_name": "notenoughanimations-forge-1.12.0-mc1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/433760/files/7818948/download"
+    },
+    {
+      "name": "[NTGL] NukaTeam's Gun Lib",
+      "file_name": "ntgl-1.20.1-3.0.6.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/998474/files/7400353/download"
+    },
+    {
+      "name": "OpenBlocks Elevator",
+      "file_name": "elevatorid-1.20.1-1.9.1-forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/250832/files/6602224/download"
+    },
+    {
+      "name": "Paragliders",
+      "file_name": "Paraglider-forge-20.1.3.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/289240/files/5046069/download"
+    },
+    {
+      "name": "Pick Up Notifier",
+      "file_name": "PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/351441/files/4613538/download"
+    },
+    {
+      "name": "playerAnimator",
+      "file_name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/658587/files/4587214/download"
+    },
+    {
+      "name": "Polar's Exploration Additions",
+      "file_name": "polars_exploration_additions-1.1.2-forge-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1180384/files/7473475/download"
+    },
+    {
+      "name": "Puzzles Lib",
+      "file_name": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/495476/files/6918565/download"
+    },
+    {
+      "name": "Ramadan Delight (Farmers Delight Add-on)",
+      "file_name": "RamadanDelight-1.20.1-1.7.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1193532/files/7472916/download"
+    },
+    {
+      "name": "Reap Mod",
+      "file_name": "reap-1.20.1-1.0.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/244256/files/4680143/download"
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "file_name": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/897116/files/7110922/download"
+    },
+    {
+      "name": "Rice Delight (A Farmer's Delight Add-on)",
+      "file_name": "ricedelight-1.5.1-forge-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1419951/files/7512670/download"
+    },
+    {
+      "name": "Rustic Delight",
+      "file_name": "rusticdelight-forge-1.20.1-1.5.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1106612/files/7633106/download"
+    },
+    {
+      "name": "Saro´s Money",
+      "file_name": "Saros-Money-Mod.1.20.1-3.5.5.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/677097/files/7013516/download"
+    },
+    {
+      "name": "Security Craft",
+      "file_name": "[1.20.1] SecurityCraft v1.10.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/64760/files/7148563/download"
+    },
+    {
+      "name": "Moonlight Lib",
+      "file_name": "moonlight-1.20-2.16.28-forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/499980/files/7664875/download"
+    },
+    {
+      "name": "Create Slice & Dice",
+      "file_name": "sliceanddice-forge-3.6.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/659674/files/7184951/download"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "file_name": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/535489/files/7032235/download"
+    },
+    {
+      "name": "Spanish Delight (A Farmer's Delight Add-on)",
+      "file_name": "spanishdelight-1.0.2-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1121967/files/6055717/download"
+    },
+    {
+      "name": "Spanish Delight Crop Seeds",
+      "file_name": "zzzz_spanish_delight_crop_seeds-1.0.1-forge-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1361756/files/7092403/download"
+    },
+    {
+      "name": "Structure Essentials[Forge/Fabric]",
+      "file_name": "structureessentials-1.20.1-4.8.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/832882/files/6732854/download"
+    },
+    {
+      "name": "Structure Gel API",
+      "file_name": "structure_gel-1.20.1-2.16.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/378802/files/5278429/download"
+    },
+    {
+      "name": "Supplementaries Squared",
+      "file_name": "suppsquared-1.20-1.1.29.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/838411/files/7440331/download"
+    },
+    {
+      "name": "Supplementaries",
+      "file_name": "supplementaries-1.20-3.1.42-forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/412082/files/7431873/download"
+    },
+    {
+      "name": "TerraBlender (Forge)",
+      "file_name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/563928/files/6290448/download"
+    },
+    {
+      "name": "Thirst Was Taken",
+      "file_name": "ThirstWasTaken-1.20.1-1.4.0.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/679270/files/6660408/download"
+    },
+    {
+      "name": "Townstead",
+      "file_name": "townstead-0.4.3+1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1464195/files/7842928/download"
+    },
+    {
+      "name": "TrashSlot Blacklist Addon",
+      "file_name": "trashslotblacklist-forge-0.9.1-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1448517/files/7804778/download"
+    },
+    {
+      "name": "TrashSlot",
+      "file_name": "trashslot-forge-1.20.1-15.1.4.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/235577/files/7772364/download"
+    },
+    {
+      "name": "Veggies Delight (A Farmer's Delight Add-on)",
+      "file_name": "VeggiesDelight-1.20.1-1.9.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1082807/files/7443458/download"
+    },
+    {
+      "name": "Visual Workbench",
+      "file_name": "VisualWorkbench-v8.0.1-1.20.1-Forge.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/500273/files/6798189/download"
+    },
+    {
+      "name": "WATERFrAMES: Multimedia Displays",
+      "file_name": "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/834607/files/7134293/download"
+    },
+    {
+      "name": "WATERMeDIA: Youtube Plugin",
+      "file_name": "watermedia_youtube_plugin-2.1.2.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1395870/files/7543999/download"
+    },
+    {
+      "name": "WATERMeDIA: Multimedia API",
+      "file_name": "watermedia-2.1.37.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/869524/files/7281929/download"
+    },
+    {
+      "name": "WATERViSION: Videoplayer",
+      "file_name": "watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1167473/files/7021437/download"
+    },
+    {
+      "name": "Wayback Stone",
+      "file_name": "WaybackStone-Forge-1.20.1-20.1.3.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1135580/files/7613295/download"
+    },
+    {
+      "name": "Waystones",
+      "file_name": "waystones-forge-1.20.1-14.1.20.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/245755/files/7682270/download"
+    },
+    {
+      "name": "WebDisplays",
+      "file_name": "webdisplays-2.0.2-1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/654478/files/5823561/download"
+    },
+    {
+      "name": "Xaero's Minimap & World Map - Waystones Compatibility [Forge]",
+      "file_name": "xaeros_waystones_compatibility-1.1 - 1.20.1.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/887484/files/7786445/download"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "file_name": "xaerominimap-forge-1.20.1-25.3.10.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/263420/files/7598586/download"
+    },
+    {
+      "name": "Xaero's World Map",
+      "file_name": "xaeroworldmap-forge-1.20.1-1.40.11.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/317780/files/7598469/download"
+    },
+    {
+      "name": "PatataLand",
+      "file_name": "patataland-1.0.0-forge-1.20.1.jar",
+      "url": "https://github.com/vicggit/net.vicdev.patataland3mods/raw/refs/heads/main/patataland-1.0.0-forge-1.20.1.jar"
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
