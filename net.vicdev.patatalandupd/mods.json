@@ -29,6 +29,16 @@
       "name": "SecurityCraft",
       "file_name": "1.20.1-securitycraft-v1.10.2.1.jar",
       "url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/PhNy7dJx/%5B1.20.1%5D%20SecurityCraft%20v1.10.2.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Corpse",
+      "file_name": "corpse-forge-1.20.1-1.0.23.jar",
+      "url": "https://cdn.modrinth.com/data/WrpuIfhw/versions/7fc0hJN6/corpse-forge-1.20.1-1.0.23.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+    },
+    {
+      "name": "Teams HUD Plus",
+      "file_name": "teamshudplus-forge-1.20.1-1.6.0.jar",
+      "url": "https://cdn.modrinth.com/data/Qe30Rl2r/versions/gUXNVDNX/TeamsHUDPlus-forge-1.20.1-1.6.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     }
   ]
 }
