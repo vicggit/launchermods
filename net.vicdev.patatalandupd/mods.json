@@ -41,14 +41,9 @@
       "url": "https://cdn.modrinth.com/data/Qe30Rl2r/versions/gUXNVDNX/TeamsHUDPlus-forge-1.20.1-1.6.0.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
-      "name": "Framework",
-      "file_name": "framework-forge-1.20.1-0.8.0.jar",
-      "url": "https://www.curseforge.com/api/v1/mods/549225/files/7573740/download"
-    },
-    {
-      "name": "Backpacked",
-      "file_name": "backpacked-forge-1.20.1-3.0.9.jar",
-      "url": "https://www.curseforge.com/api/v1/mods/352835/files/7866682/download"
+      "name": "Traveler's Backpacks",
+      "file_name": "travelersbackpack-forge-1.20.1-9.1.55.jar",
+      "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/xUfxfgGF/travelersbackpack-forge-1.20.1-9.1.55.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
     },
     {
       "name": "JEI",
